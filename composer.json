@@ -2,7 +2,7 @@
     "name": "devnas/imgresize",
     "description": "img resize storage laravel",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Martua Nasution",
